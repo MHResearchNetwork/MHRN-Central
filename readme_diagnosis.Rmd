@@ -14,9 +14,9 @@ These documents represent the universe of mental health diagnosis codes used by 
 
 * ICD9_10_MHRN_DX_DEFS_working.csv is suitable for reading into a dataset.  It contains both ICD-9 and ICD-10 codes.
 
-* dx_macro.txt - this is provided for historical information.  It is not currently in use.  Use for reference only.
+* ICD-9dx_macro.txt - this is provided for historical information.  It is not currently in use.  Use for reference only.
 
-* dxlist.zip - zipped SAS dataset of MHRN I (ICD-9) diagnosis codes by category.
+* dxlist.zip - zipped SAS dataset of MHRN I (ICD-9) diagnosis codes by category. It is not currently in use.  Use for reference only.
 
 Our work is continually evolving.  Historical snapshots are available for referencing our prior work.  Please make sure you are using the correct version for your needs, and always check the accuracy of our work and make sure it meets your needs before using.  (Citation request?)
 
