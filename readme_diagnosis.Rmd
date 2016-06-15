@@ -1,0 +1,25 @@
+---
+title: "Readme_diagnosis"
+author: "Chris Stewart"
+date: "June 9, 2016"
+output: html_document
+---
+
+
+These documents represent the universe of mental health diagnosis codes used by the Mental Health Research Network (MHRN.)  These lists change over time are are often subsetted or augmented for specific projects, as described in publication methods or project documentation.
+
+* MHRN1_Diagnosis list.xls is a human-readable compilation that was used for the descriptive analyses performed in MHRN I (2010-14.)  It is available in IDC-9 coding only.  This was largely implemented using a SAS macro, an example of which can be found in dxmacro.txt, although a SAS dataset is also available (dxlist.zip)
+
+* MHRN2_Diagnosis list.xls is a human-readable compilation that was used for the descriptive analyses performed in MHRN II (2015-19.)  This has been implemented using a SAS macro, a format, and as a SAS dataset derived from the comma-delimited file below.  It has been implemented in ICD-9 and a draft ICD-10 version is included.
+
+* ICD9_10_MHRN_DX_DEFS_working.csv is suitable for reading into a dataset.  It contains both ICD-9 and ICD-10 codes.
+
+* dx_macro.txt - this is provided for historical information.  It is not currently in use.  Use for reference only.
+
+* dxlist.zip - zipped SAS dataset of MHRN I (ICD-9) diagnosis codes by category.
+
+Our work is continually evolving.  Historical snapshots are available for referencing our prior work.  Please make sure you are using the correct version for your needs, and always check the accuracy of our work and make sure it meets your needs before using.  (Citation request?)
+
+ 
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
