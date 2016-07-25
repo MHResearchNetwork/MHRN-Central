@@ -1,5 +1,5 @@
 # MHRN-Central
-Publicly-available resources from the Mental Health Research Network
+Publicly-available resources from the Mental Health Research Network.  
 You can find us at http://hcsrn.org/mhrn/en/
 
 Our data comes from the Health Care Systems Research Network (HCSRN) Virtual Data Warehouse (VDW.)  For more information, see: http://www.hcsrn.org/en/About/Data/wysiwyg.html
@@ -12,4 +12,3 @@ This repository contains:
 * medications we study: GenericDrugNames_2015.xls, an annually-updated SAS dataset containing the NDCs for these drugs (mhrn2_ndc2015.zip) and some sample code for generating this dataset (UpdateMHRx_NDC_send2.sas)
 
 * For diagnosis codes, please go to (https://github.com/MHResearchNetwork/Diagnosis-Codes)
-
