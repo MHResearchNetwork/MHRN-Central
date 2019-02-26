@@ -1,4 +1,4 @@
-Read me for MHRN2_ndc2016, 2017
+Read me for MHRN2_ndc2016, 2017 plus 2018 (NO CHANGES in 2018)
 
 ALWAYS review Category and Active_ingredient (cleaned version of generic name) to make sure this list is appropriate for your use.
 
