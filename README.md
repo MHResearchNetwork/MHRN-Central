@@ -13,4 +13,4 @@ This repository contains:
 
 * For diagnosis codes, please go to (https://github.com/MHResearchNetwork/Diagnosis-Codes)
 
-* Procedure codes: MHRN_pxcodes_new.xls and sas7bdat.  Be sure to restrict to the category you want!
+* Procedure codes: MHRN_Procedure_codes.xlsx and mhpx_codes_new.sas7bdat  Be sure to restrict to the category you want!
