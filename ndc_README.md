@@ -1,8 +1,9 @@
-Read me for MHRN3_ndc2019, 2020, 2021
+# Read me for Medication (NDC) lists: Which file do you want?
 
+ * For a human-readable summary of included drugs choose GenericDrugNames_[YEAR].xls.  It's in MHRN-Central (use the blue links above left.)
+ * For a SAS dataset, choose mhrn_dx
 ALWAYS review Category and Active_ingredient (cleaned version of generic name) to make sure this list is appropriate for your use.
 
-A human-readable summary of included drugs is available in this repository: GenericDrugNames_[YEAR].xls
  
 
 * Injectable antipsychotics organized as a separate class - these now come from HEDIS SAA Medication List Value Sets
