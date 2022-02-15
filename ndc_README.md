@@ -1,7 +1,8 @@
 # Read me for Medication (NDC) lists: Which file do you want?
 
  * For a human-readable summary of included drugs choose GenericDrugNames_[YEAR].xls.  It's in MHRN-Central (use the blue links above left.)
- * For a SAS dataset, choose mhrn_dx
+ * For a SAS dataset, choose mhrn3_ndc[year].zip.  You probably want the most recent year, but last year's is included here.  Older files can be found in MHRN-Archive.
+ * For other platforms, choose
 ALWAYS review Category and Active_ingredient (cleaned version of generic name) to make sure this list is appropriate for your use.
 
  
