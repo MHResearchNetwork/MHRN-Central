@@ -1,6 +1,6 @@
 # MHRN-Central
 Publicly-available resources from the Mental Health Research Network.  
-You can find us at http://hcsrn.org/mhrn/en/
+You can find us at https://mhresearchnetwork.org/
 
 Our data comes from the Health Care Systems Research Network (HCSRN) Virtual Data Warehouse (VDW.)  For more information, see: http://www.hcsrn.org/en/About/Data/wysiwyg.html
 
