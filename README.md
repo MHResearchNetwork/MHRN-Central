@@ -7,7 +7,7 @@ Our data comes from the Health Care Systems Research Network (HCSRN) Virtual Dat
 This repository contains:
 * Documentation about our data: Description of MHRN VDW Data.doc, MHRN_DataDictionary2011.doc
 
-* Medications we study: GenericDrugNames_2021.xls, an annually-updated SAS dataset containing the NDCs for these drugs (mhrn3_ndc2021.zip.)  See https://github.com/MHResearchNetwork/MHRN-Central/blob/master/ndc_README.md
+* Medications we study: GenericDrugNames_2022.xls, an annually-updated SAS dataset containing the NDCs for these drugs (mhrn3_ndc2022.zip.)  See https://github.com/MHResearchNetwork/MHRN-Central/blob/master/ndc_README.md
 
 * Sample code for generating the NDC dataset (UpdateMHRx_NDC_send2.sas)
 
