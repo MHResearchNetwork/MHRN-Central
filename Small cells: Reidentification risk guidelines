@@ -1,0 +1,15 @@
+Re-identification risk depends on the overlap and potential linkage of the data being shared with publicly- or commercially-available data (e.g. births, deaths, celebrity hospitalizations, etc.)  
+
+HIPAA provides two approaches to de-identifying data: https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#safeharborguidance, Safe Harbor and expert determination.  In reality, safe harbor may be either too stringent or too risky depending on the nature of the data being shared.  
+
+The following documents can guide you in making an appropriate expert determination.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6450246/
+https://www.sentinelinitiative.org/sites/default/files/Methods/Sentinel_Report_Toolkit-Assessing-Mitigating-Risk-Re-Identification-Sharing-Data-Derived-from-Health-Records.pdf
+
+Here are some examples from HHS and Greg Simon:
+-	It’s not a problem to report data on the small group of people who had four blood sugar measurements on the same day, since that would only be identifiable to someone who already had access to medical records.
+-	But it would be a problem to report data on the small group of people who delivered four babies on the same day, since those people might be readily identifiable.
+
+-	It would not be a problem to report data on four people who failed to refill a buprenorphine prescription and died by suicide soon after, since that would only be identifiable to someone who already had the records.
+-	But it would be a problem to report data on four AI/AN males aged 13-17 in Hawaii who died by suicide in 2019, since those people might be readily identified.
+
