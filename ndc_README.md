@@ -14,8 +14,8 @@
 * NDCs can be re-used for different drugs.  This is a 0.1% problem, insignificant for big data projects.  For more sensitive situations, refer to the ndc_reused_flag and where it = 1, use only in the interval defined by the startdt and enddt.  Past NDCs for MH drugs that have been re-used have been removed, as it seems dangerous to include a code that currently means something else.
 
 # FAQ
-* Why doesn't your list match other online resources such as https://dps.fda.gov/ndc?
-This list is customized for our network.  It includes local (to each health system) codes that were used when a true NDC code was not available. Also, this list is an historical one and by design contains NDCs no longer in use – some of our sites have pharmacy data back to 1990.
+* Why doesn't this list match other online resources such as https://dps.fda.gov/ndc?
+This list is customized for the Mental Health Research network.  It includes local (to each health system) codes that were used when a true NDC code was not available. Also, this list is an historical one and by design contains NDCs no longer in use – some of our sites have pharmacy data back to 1990.
 
   
 
