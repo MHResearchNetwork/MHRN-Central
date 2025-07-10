@@ -6,12 +6,18 @@
 
  
 # Notes
+* NDC variable is National Drug Code in the HIPAA/CMS/NCPDP standard 5-4-2 configuration without dashes. 
 * Injectable antipsychotics organized as a separate class - these now come from HEDIS SAA Medication List Value Sets
 * Injectables other than antipsychotics are included in their regular class. (e.g. benzodiazepines and anticonvulsants.)  Refer to variables Route and Dosage_form if you want to exclude these. However, these are unlikely to appear in outpatient pharmacy records.
 * Subclass variable added, populated for antidepressants only
 * COMBO category includes drugs that are combinations of two ingredients categorized separately in this data set (e.g. an antidepressant/antipsychotic combination)
 * NDCs can be re-used for different drugs.  This is a 0.1% problem, insignificant for big data projects.  For more sensitive situations, refer to the ndc_reused_flag and where it = 1, use only in the interval defined by the startdt and enddt.  Past NDCs for MH drugs that have been re-used have been removed, as it seems dangerous to include a code that currently means something else.
 
+# FAQ
+* Why doesn't you list match other online resources such as https://dps.fda.gov/ndc?
+This list is customized for our network.  It includes local (to each health system) codes that were used when a true NDC code was not available. Also, this list is an historical one and by design contains NDCs no longer in use – some of our sites have pharmacy data back to 1990.
+
+  
 
 
 
